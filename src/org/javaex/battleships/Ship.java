@@ -24,6 +24,7 @@ public abstract class Ship {
 		shipSize = size;
 		positionX = x;
 		positionY = y;
+		syso
 	}
 	
 	/**
